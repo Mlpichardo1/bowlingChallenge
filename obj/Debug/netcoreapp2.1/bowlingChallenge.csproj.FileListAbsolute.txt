@@ -1,0 +1,11 @@
+/Users/jennypichardo/Desktop/visProjects/bowlingChallenge/bin/Debug/netcoreapp2.1/bowlingChallenge.deps.json
+/Users/jennypichardo/Desktop/visProjects/bowlingChallenge/bin/Debug/netcoreapp2.1/bowlingChallenge.runtimeconfig.json
+/Users/jennypichardo/Desktop/visProjects/bowlingChallenge/bin/Debug/netcoreapp2.1/bowlingChallenge.runtimeconfig.dev.json
+/Users/jennypichardo/Desktop/visProjects/bowlingChallenge/bin/Debug/netcoreapp2.1/bowlingChallenge.dll
+/Users/jennypichardo/Desktop/visProjects/bowlingChallenge/bin/Debug/netcoreapp2.1/bowlingChallenge.pdb
+/Users/jennypichardo/Desktop/visProjects/bowlingChallenge/obj/Debug/netcoreapp2.1/bowlingChallenge.csprojAssemblyReference.cache
+/Users/jennypichardo/Desktop/visProjects/bowlingChallenge/obj/Debug/netcoreapp2.1/bowlingChallenge.csproj.CoreCompileInputs.cache
+/Users/jennypichardo/Desktop/visProjects/bowlingChallenge/obj/Debug/netcoreapp2.1/bowlingChallenge.AssemblyInfoInputs.cache
+/Users/jennypichardo/Desktop/visProjects/bowlingChallenge/obj/Debug/netcoreapp2.1/bowlingChallenge.AssemblyInfo.cs
+/Users/jennypichardo/Desktop/visProjects/bowlingChallenge/obj/Debug/netcoreapp2.1/bowlingChallenge.dll
+/Users/jennypichardo/Desktop/visProjects/bowlingChallenge/obj/Debug/netcoreapp2.1/bowlingChallenge.pdb

@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -21,6 +21,7 @@ namespace Bowling_Test
 
         static int FuncBowling(int[] throws)
         {
+        
             string lastThrow = "none";
             //bool lastFrameBonus = false;
 

@@ -1,7 +1,0 @@
-C:\Users\A Nick Garza\source\repos\Bowling_Test\Bowling_Test\bin\Debug\Bowling_Test.exe.config
-C:\Users\A Nick Garza\source\repos\Bowling_Test\Bowling_Test\bin\Debug\Bowling_Test.exe
-C:\Users\A Nick Garza\source\repos\Bowling_Test\Bowling_Test\bin\Debug\Bowling_Test.pdb
-C:\Users\A Nick Garza\source\repos\Bowling_Test\Bowling_Test\obj\Debug\Bowling_Test.csprojAssemblyReference.cache
-C:\Users\A Nick Garza\source\repos\Bowling_Test\Bowling_Test\obj\Debug\Bowling_Test.csproj.CoreCompileInputs.cache
-C:\Users\A Nick Garza\source\repos\Bowling_Test\Bowling_Test\obj\Debug\Bowling_Test.exe
-C:\Users\A Nick Garza\source\repos\Bowling_Test\Bowling_Test\obj\Debug\Bowling_Test.pdb
